@@ -1,0 +1,9 @@
+@keyframes customAnimation {
+  0% { transform: translateY(0) rotate(0); }
+  50% { transform: translateY(-20px) rotate(5deg); }
+  100% { transform: translateY(0) rotate(0); }
+}
+
+.animate-customAnimation {
+  animation: customAnimation 2s ease-in-out infinite;
+}
