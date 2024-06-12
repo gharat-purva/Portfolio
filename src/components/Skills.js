@@ -6,10 +6,12 @@ const Skills = () => (
     <div className="bg-white p-5 rounded-lg shadow-md">
       <ul className="list-disc pl-5 font-mono">
         <li>JavaScript</li>
-        <li>React</li>
-        <li>Node.js</li>
+        <li>ReactJS</li>
+        <li>TailwindCSS</li>
+        <li>Bootstrap</li>
         <li>HTML & CSS</li>
-        <li>Python</li>
+        <li>Github</li>
+        <li>Figma</li>
       </ul>
     </div>
     <div className="absolute inset-x-0 bottom-0 h-1 bg-gradient-to-r from-pastel-blue to-pastel-teal rounded-b"></div>
